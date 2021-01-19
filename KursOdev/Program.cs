@@ -17,8 +17,8 @@ namespace KursOdev
             musteri2.Id = 1796;
 
             Musteri musteri3 = new Musteri();
-            musteri3.Adi = "Süper";
-            musteri3.SoyAd = "Man";
+            musteri3.Adi = "Obivan";
+            musteri3.SoyAd = "Kenobi";
             musteri3.Id = 25656;
 
             Musteri[] musteriler = new Musteri[] { musteri1, musteri2, musteri3 };
